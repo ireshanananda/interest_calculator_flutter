@@ -9,16 +9,3 @@ Key Features:
 - Real-time currency conversion rates fetched from the internet.
 
 This application is a practical tool for individuals looking to perform quick and accurate interest calculations, with the added convenience of currency conversion. Whether you need to calculate interest in Sri Lankan Rupees, Dollars, or Pounds, this app has you covered.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
